@@ -4,7 +4,7 @@ A DFA interpreter written in Python made for a Theory of Computation, Automatons
 # Made by:
 
 -Cadu Dias
-Gabriel Garcia
+-Gabriel Garcia
 -Marcos Oliveira
 -Luiz Felipe Balaminute
 -Tiago Hiray Hisatugo
